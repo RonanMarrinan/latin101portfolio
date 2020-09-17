@@ -25,7 +25,7 @@ What case, number, and gender is monstra? Monstra is nominative, plural and neut
 
 What declension does the word dracōnēs belong to? Third declension.
 
-What case and number is eorum and to whom does it refer? Eorum is Genitive and plural. It refers to 
+What case and number is eorum and to whom does it refer? Eorum is Genitive and plural. It refers to Cyclōpēs.
 
 What declension does the word dracōnēs belong to?
 
