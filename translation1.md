@@ -15,7 +15,7 @@ Surround all the verbs with two asterisks, and all the subjects with one asteris
 
 B. Grammatical Questions
 
-What case is eius and to what does it refer? Eius is genitive and it refers to Chaos.
+What case is eius and to what does it refer? Eius is genitive and it refers to ???????
 
 What type of word is haec? Haec is a demonstratives.
 
