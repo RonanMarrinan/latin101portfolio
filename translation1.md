@@ -6,7 +6,7 @@ Notes on formatting:
 
 - Highlighting like this indicates words referred to in grammatical questions.
 
-*Chaos* prīmus deōrum **erat**. Fīliae eius, *Nox* et *Terra*, *māter* omnium hominum, erant. Haec *māter* Mortis et Lētī **erat**. Illīus fīliī horribilia mōnstra **erant**: Typhon, Python, et Cyclōpēs. Typhon et Python dracōnēs ingentēs **erant** et Cyclōpēs fabrī brūtī. Sed frāter **eōrum** Ūranus, prīmus ipse rēx deōrum. Hic fortis et magnus **erat**, sed quōque sapiēns.
+*Chaos* prīmus deōrum **erat**. Fīliae eius, *Nox* et *Terra*, *māter* omnium hominum, **erant**. Haec *māter* Mortis et Lētī **erat**. Illīus *fīliī* horribilia mōnstra **erant**: *Typhon*, *Python*, et *Cyclōpēs*. *Typhon* et *Python* dracōnēs ingentēs **erant** et Cyclōpēs fabrī brūtī. Sed frāter eōrum *Ūranus*, prīmus *ipse* rēx deōrum. *Hic* fortis et magnus **erat**, sed quōque sapiēns.
 
 A. Grammatical Analysis
 
@@ -15,7 +15,7 @@ Surround all the verbs with two asterisks, and all the subjects with one asteris
 
 B. Grammatical Questions
 
-What case is eius and to what does it refer? Eius is genitive and it refers to ???????
+What case is eius and to what does it refer? Eius is genitive and it refers to Chaos.
 
 What type of word is haec? Haec is a demonstratives.
 
@@ -25,14 +25,12 @@ What case, number, and gender is monstra? Monstra is nominative, plural and neut
 
 What declension does the word dracōnēs belong to? Third declension.
 
-What case and number is eorum and to whom does it refer? Eorum is Genitive and plural. It refers to Cyclōpēs.
+What case and number is eorum and to whom does it refer? Eorum is Genitive and plural. It refers to Cyclōpēs???? Typhonn and Python.
 
-What declension does the word dracōnēs belong to?  Third eclension.
-
-What word is understood (not included) in the sentence: Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum?
+What word is understood (not included) in the sentence: Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum? The verb to be
 
 C. Translation
 
 Please translate the passage into idiomatic English.
 
-Chaos is the first God. His daughters Nox and Terra, they will be the Mother of all people. They will be the mother of death and destruction.   of that son   Monsters
+Chaos was the first God. His daughters were Night and Earth, the Mother of all people. She was the mother of death and of destruction. His sons were horrible monsters: Typhon, Python, et Cyclōpēs. Typhon and Python were huge Dragons and Cyclopes of foolish stone workers(CHECK!!!!). The brother was Uranus, the first king of the gods. He was strong and great, but he was wise.
