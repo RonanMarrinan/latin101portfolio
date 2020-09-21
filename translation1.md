@@ -6,7 +6,7 @@ Notes on formatting:
 
 - Highlighting like this indicates words referred to in grammatical questions.
 
-Chaos prīmus deōrum **erat**. Fīliae eius, Nox et Terra, māter omnium hominum, erant. Haec māter Mortis et Lētī erat. Illīus fīliī horribilia mōnstra erant: Typhon, Python, et Cyclōpēs. Typhon et Python dracōnēs ingentēs erant et Cyclōpēs fabrī brūtī. Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum. Hic fortis et magnus erat, sed quōque sapiēns.
+*Chaos* prīmus deōrum **erat**. Fīliae eius, *Nox* et *Terra*, *māter* omnium hominum, erant. Haec *māter* Mortis et Lētī **erat**. Illīus fīliī horribilia mōnstra **erant**: Typhon, Python, et Cyclōpēs. Typhon et Python dracōnēs ingentēs **erant** et Cyclōpēs fabrī brūtī. Sed frāter **eōrum** Ūranus, prīmus ipse rēx deōrum. Hic fortis et magnus **erat**, sed quōque sapiēns.
 
 A. Grammatical Analysis
 
@@ -27,10 +27,12 @@ What declension does the word dracōnēs belong to? Third declension.
 
 What case and number is eorum and to whom does it refer? Eorum is Genitive and plural. It refers to Cyclōpēs.
 
-What declension does the word dracōnēs belong to?
+What declension does the word dracōnēs belong to?  Third eclension.
 
 What word is understood (not included) in the sentence: Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum?
 
 C. Translation
 
 Please translate the passage into idiomatic English.
+
+Chaos is the first God. His daughters Nox and Terra, they will be the Mother of all people. They will be the mother of death and destruction.   of that son   Monsters
