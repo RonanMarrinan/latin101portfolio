@@ -6,7 +6,7 @@ Notes on formatting:
 
 - Highlighting like this indicates words referred to in grammatical questions.
 
-*Chaos* prīmus deōrum **erat**. Fīliae eius, *Nox* et *Terra*, *māter* omnium hominum, **erant**. Haec *māter* Mortis et Lētī **erat**. Illīus *fīliī* horribilia mōnstra **erant**: *Typhon*, *Python*, et *Cyclōpēs*. *Typhon* et *Python* dracōnēs ingentēs **erant** et Cyclōpēs fabrī brūtī. Sed frāter eōrum *Ūranus*, prīmus *ipse* rēx deōrum. *Hic* fortis et magnus **erat**, sed quōque sapiēns.
+*Chaos* prīmus deōrum **erat**. Fīliae eius, *Nox* et *Terra*, *māter* omnium hominum, **erant**. Haec *māter* Mortis et Lētī **erat**. Illīus *fīliī* horribilia mōnstra **erant**: *Typhon*, *Python*, et *Cyclōpēs*. *Typhon* et *Python* dracōnēs ingentēs **erant** et *Cyclōpēs* fabrī brūtī. Sed frāter eōrum *Ūranus*, prīmus ipse rēx deōrum. *Hic* fortis et magnus **erat**, sed quōque sapiēns.
 
 A. Grammatical Analysis
 
@@ -33,4 +33,4 @@ C. Translation
 
 Please translate the passage into idiomatic English.
 
-Chaos was the first God. His daughters were Night and Earth, the Mother of all people. She was the mother of death and of destruction. Her sons were horrible monsters: Typhon, Python, et Cyclōpēs. Typhon and Python were huge Dragons and the Cyclopes were foolish stone workers. The brother was Uranus, the first king of the gods. He was strong and great, but he was wise.
+Chaos was the first God. His daughters were Night and Earth, the Mother of all people. She was the mother of death and of destruction. Her sons were horrible monsters: Typhon, Python, et Cyclōpēs. Typhon and Python were huge Dragons and the Cyclopes were foolish stone workers. The brother was Uranus, the very first king of the gods. He was strong and great, but also wise.
