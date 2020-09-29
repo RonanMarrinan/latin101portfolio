@@ -17,9 +17,8 @@ Compose a paragraph of Latin about the Olympian gods following these instruction
 - past tense form of the verb “to be” (in the proper person and number)
 - predicate nominative that describes Venus in the proper case and number
 
-
-Iuppiter et Iūnō regem et reginam deorum erant.
-Mārs et Vulcānu filios Iovis et Iūnōnis erant.
+Iuppiter et Iūnō, rex et regina deorum erant.
+Mārs et Vulcānus filii Iovis et Iūnōnis erant.
 
 
 
