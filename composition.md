@@ -22,7 +22,7 @@ Mārs et Vulcānus filii Iovis et Iūnōnis erant.
 Iuppiter habuerat alius filiae nomen minervae et ea soror Mārtis et Vulcānī erat.
 Venus soror Vulcānī erat.
 Ea 
-erat
+fuerat
 
 
 
