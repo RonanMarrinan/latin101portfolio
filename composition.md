@@ -19,7 +19,7 @@ Compose a paragraph of Latin about the Olympian gods following these instruction
 
 Iuppiter et Iūnō, rex et regina deorum erant.
 Mārs et Vulcānus filii Iovis et Iūnōnis erant.
-
+Iuppiter habuerat alius filiae nomen minervae et 
 
 
 
