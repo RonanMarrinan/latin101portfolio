@@ -9,7 +9,7 @@ Passage to analyze
 
 Long ago Prometheus, the first son of Iapetus, fashioned men out of mud.
 At the same time Vulcān made women out of mud.
-Minerva gave souls to these women and all of the gods sent gifts to her.
+Minerva gave souls to these women and all the gods sent gifts to her.
 On account of this Pandōra was the name of her.
 Pandōra was given into marriage with Epimetheus by Jupiter.
 The daughter of them was Phyraa, the first mortal.
