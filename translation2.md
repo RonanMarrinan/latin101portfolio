@@ -11,11 +11,17 @@ Surround all the verbs with two asterisks. (These will display as bold text.) Su
 
 B. Grammatical Questions
 - What is the grammatical function of Iapetī fīlius prīmus? It is describing the subject (Prometheus).
-- Parse fingēbat and tell me what conjugation it belongs to.
+
+- Parse fingēbat and tell me what conjugation it belongs to. Fingēbat is third person, singular, imperfect, Active and indicative. It belongs to the second conjugation.
+
 - What type of adjective is huic, what case is it in, and what word does it agree with? Huic is a demonstrative adjetive, it is dative and agrees with the word "feminae."
+
 - Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence.
+
 - Parse data est and indicate what conjugation the verb belongs to. The parse for Data est is 3rd person, singular, perfect, passive and indicative. The subject of data is Pandōra.
+
 - What type of grammatical construction is ab Iove? It expresses the agent of by.
+
 - What tense is erat and what are the principle parts of the verb it comes from? Erat is the imperfect tense of the verb "to be." To be's four principal parts are um, esse, fui, futurus.
 
 C. Translation
