@@ -21,9 +21,7 @@ Iuppiter et Iūnō, rex et regina deorum erant.
 Mārs et Vulcānus filii Iovis et Iūnōnis erant.
 Minerava, soror Mārtis et Vulcānī, fillia Iovis erat.
 Venus uxor Vulcānī erat.
-
-Ea 
-fuerat
+Ea matrem nullīus familiae erat.
 
 
 
