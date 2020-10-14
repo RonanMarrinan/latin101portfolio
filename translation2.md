@@ -1,10 +1,10 @@
 Passage to analyze
-- Olim Prometheus, Iapetī fīlius prīmus, hominēs ex lutō fingēbat.
-- Simul Vulcānus ex lutō fēminam faciēbat.
-- Minerva huic fēminae animam dedit et omnēs deī dōna eī misērunt.
-- ob id nōmen “Pandōra” ei datum est.
-- Pandōra ab Iove in coniugium Epimetheō data est.
-- Fīlia eōrum erat Pyrrha, prīma mortālis.
+- Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**.
+- Simul *Vulcānus* ex lutō fēminam **fingēbat**.
+- *Minerva* huic fēminae animam **dedit** et omnēs *deī* dōna eī **misērunt**.
+- ob *id* nōmen “Pandōra” ei **datum est**.
+- *Pandōra* ab Iove in coniugium Epimetheō **data est**.
+- *Fīlia* eōrum **erat** Pyrrha, prīma mortālis.
 
 A. Grammatical Analysis
 Surround all the verbs with two asterisks. (These will display as bold text.) Surround all the subjects with one asterisk. (These will display as italic text.)
@@ -16,7 +16,7 @@ B. Grammatical Questions
 
 - What type of adjective is huic, what case is it in, and what word does it agree with? Huic is a demonstrative adjetive, it is dative and agrees with the word "feminae."
 
-- Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence.
+- Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence. The sentence is transitive. Dei is the subject of the sentence and omnes is an adjective describing the subject. Misērunt is the verb in the sentence and it is acting upon dōna, the direct object of the sentence. The indirect object of the sentence is eī.
 
 - Parse data est and indicate what conjugation the verb belongs to. The parse for Data est is 3rd person, singular, perfect, passive and indicative. The subject of data is Pandōra.
 
