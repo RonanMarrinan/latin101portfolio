@@ -5,7 +5,7 @@ Rewrite each of the following statements as a question that is answered by the h
 Statements to convert to questions:
 1. Prometheus homines ex luto fingebat. Prometheus homines ex quo fingebat?
 
-2. Vulcanus ex luto feminam fecit. Vulcanus ex luto quid fecit?????
+2. Vulcanus ex luto feminam fecit. Vulcanus ex luto quid fecit?
 
 3. Minerva huic feminae animam dedit. Minerva cui animam dedit?
 
