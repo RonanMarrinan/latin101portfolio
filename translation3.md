@@ -5,7 +5,7 @@ Highlighting like this indicates words or phrases referred to in grammatical que
 *Erechtheus*, Pandīonis *fīlius*, **habuit** fīliās quattuor. 
 illō tempōre, *Eumolpus*, Neptūnī *fīlius*, **vēnit** ad Athēnās oppugnandās, sed *hic* **victus** **est**. 
 Neptūnus, infestus quod *fīlius* ab Erechtheō **interfectus** **est**, **dīxit** “Erecthei fīlia **immolanda** **est**.” 
-itaque Chthonia, fīliārum ūna, immolāta est. 
+itaque *Chthonia*, fīliārum ūna, **immolāta** **est**. 
 ceterae sorōrēs sē interfēcērunt; ipse Erechtheus ab fulmine ictus est.
 
 A. Grammatical Analysis
@@ -38,4 +38,8 @@ Erechtheus, the son of Pandīonis, had four daughters.
 At that time, Eumolpus, son of Neptūnī, came to attack Athēns, but he was defeated.
 
 Neptūnus, angry because his son was killed by Erechtheus, said "a daughter of Erechtheus must be sacrificed."
+
+So Chthonia, one of the daughters, was sacrificed.
+
+
 
