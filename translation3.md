@@ -14,7 +14,7 @@ Surround all the verbs with two asterisks. (These will display as bold text.) Su
 
 B. Grammatical Questions
 
-What case is the phrase illō tempōre and why is it in that case? It is in the ablative
+What case is the phrase illō tempōre and why is it in that case? It is in the ablative so that it can express a time when something happend.
 
 What part of speech is oppugnandās?
 
@@ -33,16 +33,9 @@ C. Translation
 
 Please translate the passage into idiomatic English.
 
-Erechtheus, son of Pandīonis, has four sons.
+Erechtheus, the son of Pandīonis, had four daughters.
 
-At that time, Eumolpus, son of Neptūnī, came attacking towards Athēnās, but the battle was won by him.
+At that time, Eumolpus, son of Neptūnī, came to attack Athēns, but he was defeated.
 
-Neptūnus, angry because his son was killed by Erechtheus, they called for the sacrifice of the daughter of Erechtheus
-
-The daughter of Erechtheus
-
-Say/call/tell (perfect)
-
-Sacrifice (perfect, passive)
-
+Neptūnus, angry because his son was killed by Erechtheus, said "a daughter of Erechtheus must be sacrificed."
 
