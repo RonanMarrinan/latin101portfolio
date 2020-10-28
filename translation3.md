@@ -6,7 +6,7 @@ Highlighting like this indicates words or phrases referred to in grammatical que
 illō tempōre, *Eumolpus*, Neptūnī *fīlius*, **vēnit** ad Athēnās oppugnandās, sed *hic* **victus** **est**. 
 Neptūnus, infestus quod *fīlius* ab Erechtheō **interfectus** **est**, **dīxit** “Erecthei fīlia **immolanda** **est**.” 
 itaque *Chthonia*, fīliārum ūna, **immolāta** **est**. 
-ceterae sorōrēs sē interfēcērunt; ipse Erechtheus ab fulmine ictus est.
+*ceterae* *sorōrēs* sē **interfēcērunt**; ipse Erechtheus ab fulmine **ictus** **est**.
 
 A. Grammatical Analysis
 
@@ -14,19 +14,22 @@ Surround all the verbs with two asterisks. (These will display as bold text.) Su
 
 B. Grammatical Questions
 
-What case is the phrase illō tempōre and why is it in that case? It is in the ablative so that it can express a time when something happend.
+1. What case is the phrase illō tempōre and why is it in that case?
+    - It is in the ablative so that it can express a time when something happend.
 
-What part of speech is oppugnandās?
+2. What part of speech is oppugnandās?
 
-What idea does Athenas oppugnandās express?
+3. What idea does Athenas oppugnandās express?
 
-Parse (PNTMV) interfectus est.
+4. Parse (PNTMV) interfectus est. 
+  - Third person, singular, perfect, inidcative and passive.
 
-What kind of construction is immolanda est?
+5. What kind of construction is immolanda est?
 
-Parse (GCN) ceterae sorōrēs.
+6. Parse (GCN) ceterae sorōrēs. 
+  - It is feminine, nominative and plural.
 
-What type of construction is ab fulmine?
+7. What type of construction is ab fulmine?
 
 
 C. Translation
@@ -40,6 +43,13 @@ At that time, Eumolpus, son of Neptūnī, came to attack Athēns, but he was def
 Neptūnus, angry because his son was killed by Erechtheus, said "a daughter of Erechtheus must be sacrificed."
 
 So Chthonia, one of the daughters, was sacrificed.
+
+The other sisters killed themselves, Erechtheus himself was hit by lightning.
+
+
+
+
+
 
 
 
