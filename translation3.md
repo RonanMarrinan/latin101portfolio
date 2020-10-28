@@ -24,13 +24,13 @@ B. Grammatical Questions
     - It is the gerunidve and it is in the accsuative case?????
 
 4. Parse (PNTMV) interfectus est. 
-  - Third person, singular, perfect, inidcative and passive.
+    - Third person, singular, perfect, inidcative and passive.
 
 5. What kind of construction is immolanda est?
     - Immolanda is a gerundive and it is expressing an obligation.
 
 6. Parse (GCN) ceterae sorōrēs. 
-  - It is feminine, nominative and plural.
+      - It is feminine, nominative and plural.
 
 7. What type of construction is ab fulmine?
     - It is the ablative of place???
