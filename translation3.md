@@ -21,7 +21,7 @@ B. Grammatical Questions
     - It is the gerundive
 
 3. What idea does Athenas oppugnandās express?
-    - It is the gerunidve and it is in the accsuative case?????
+    - It is the gerunidve and it expresses purpose. Here, the purpose of the sentence is that Eumolpus came to attack athens.
 
 4. Parse (PNTMV) interfectus est. 
     - Third person, singular, perfect, inidcative and passive.
