@@ -1,3 +1,5 @@
+**Satisfactory:  full credit**
+
 Self-corrected exercise:
 
 Rewrite each of the following statements as a question that is answered by the highlighted word. You may keep the word order the same as the original statement.
