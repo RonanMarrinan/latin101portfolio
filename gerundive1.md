@@ -1,3 +1,6 @@
+**Satisfactory:  full credit**
+
+
 For each sentence, answer the following four questions:
 a. what is the verb of the sentence?
 b. what is the gerundive?
