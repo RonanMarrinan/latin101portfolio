@@ -1,3 +1,5 @@
+**Satisfactory:  full credit**
+
 1. Hercules Antaeum occidit. hic cogebat hospites secum luctari.
   a. What is the verb of the second sentence? Cogebat.
   b. What tense and voice is luctari? Present and passive.
