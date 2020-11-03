@@ -25,3 +25,10 @@ Using the story above as inspiration, compose a paragraph of Latin according to 
 10. You must use at least three prepositional phrases and two expressions of time.
 11. You must use at least three pronouns.
 12. You must use at least two passive verbs.
+
+
+Venus Martem clam concumbebat.
+Vulcānus indicere rem fuit?????
+Is catenam adamantis fecit et catēna circum lectum Veneris et Martis posivit.
+Ea non visus est.
+
