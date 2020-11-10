@@ -19,7 +19,7 @@ Using the story above as inspiration, compose a paragraph of Latin according to 
 4. Your third sentence should express that Vulcan made a chain of adamant and placed the chain around the bed of Venus and Mars.
 5. Your fourth sentence should express that Venus and Mars did not see it.
 6. Your fifth sentence should express that they were not able to escape from the bed using possum plus the infinitive.
-7. Your sixth sentence should express that the gods were summoned for the purpose of seeing them using the gerundive to express purpos.
+7. Your sixth sentence should express that the gods were summoned for the purpose of seeing them using the gerundive to express purpose.
 8. Your seventh sentence should express that Mars felt shame because of the affair.
 9. Your eighth sentence should translate “To love is divine, but to err is also divine” into Latin.
 10. You must use at least three prepositional phrases and two expressions of time.
@@ -29,10 +29,15 @@ Using the story above as inspiration, compose a paragraph of Latin according to 
 
 Venus cum Marte clam concumbebat. Correct
 
-
 Factum Vulcano indicandum erat. Correct
 
 Is catenam adamantis fecit et catēna circum lectum Veneris et Martis posivit.
 
 Ea non visus est.
+
+Ei non fugere potuerunt ab lecto.
+
+Dei 
+
+Res Martem causatus est flagitio.
 
