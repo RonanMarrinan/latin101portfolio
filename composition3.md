@@ -41,3 +41,5 @@ Dei
 
 Res Martem causatus est flagitio.
 
+Divinus amatus est, sed divinus erratus est.
+
