@@ -35,7 +35,7 @@ Is catenam adamantis fecit et catēna circum lectum Veneris et Martis posivit.
 
 Ea non visus est.
 
-Ei non fugere potuerunt ab lecto.
+Ea non fugere potuerunt ab lecto.
 
 Quinque minute, dei vocati sunt ad videndum eos.
 
