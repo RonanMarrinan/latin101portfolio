@@ -27,9 +27,9 @@ Using the story above as inspiration, compose a paragraph of Latin according to 
 12. You must use at least two passive verbs.
 
 
-Venus cum Marte clam concumbebat. Correct
+Venus cum Marte clam concumbebat.
 
-Factum Vulcano indicandum erat. Correct
+Factum Vulcano indicandum erat.
 
 Is catenam adamantis fecit et catēna circum lectum Veneris et Martis posivit.
 
@@ -37,9 +37,8 @@ Ea non visus est.
 
 Ei non fugere potuerunt ab lecto.
 
-Dei 
+Quinque minute, dei vocati sunt ad videndum eos.
 
 Res Martem causatus est flagitio.
 
 Divinus amatus est, sed divinus erratus est.
-
