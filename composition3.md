@@ -6,9 +6,6 @@ The next time they slept together, Venus and Mars were trapped in the bed and we
 All the gods were summoned and saw them. 
 So, Mars became ashamed.
 
-
-
-
 Instructions
 
 Using the story above as inspiration, compose a paragraph of Latin according to the instructions below. All vocabulary words that you will need can be found either below or in the master vocabulary list for F20.
@@ -31,14 +28,16 @@ Venus cum Marte clam concumbebat.
 
 Factum Vulcano indicandum erat.
 
-Is catenam adamantis fecit et catēna circum lectum Veneris et Martis posivit.
+catena adamantis ab eo facta est et catenam circum lectum Veneris et Martis posuit.
 
-Ea non visus est.
+Eo tempore Venus et Mars eam non viderunt.
 
-Ea non fugere potuerunt ab lecto.
+Ei non fugere poterant ab lecto.
 
-Quinque minute, dei vocati sunt ad videndum eos.
+Quinque minute, dei vocati sunt ad videndum eos.?
 
-Res Martem causatus est flagitio.
+Res Martem causatus est flagitio.?
 
-Divinus amatus est, sed divinus erratus est.
+Amare divinum est,
+
+sed divinus erratus est.
