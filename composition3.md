@@ -28,16 +28,14 @@ Venus cum Marte clam concumbebat.
 
 Factum Vulcano indicandum erat.
 
-catena adamantis ab eo facta est et catenam circum lectum Veneris et Martis posuit.
+Catena adamantis ab eo facta est et ?cantem lectum Veneris et Marti catenam positus est.? catenam circum lectum Veneris et Martis posuit.
 
-Eo tempore Venus et Mars eam non viderunt.
+Eo tempore, Venus et Mars eam non viderunt.
 
 Ei non fugere poterant ab lecto.
 
-Quinque minute, dei vocati sunt ad videndum eos.?
+Postea ea nocte, dei vocati sunt ad eos videndos.
 
-Res Martem causatus est flagitio.?
+Ob id factum Mars pudorem sensit.
 
-Amare divinum est,
-
-sed divinus erratus est.
+Amare divinum est, sed errare divinum est.
