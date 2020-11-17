@@ -25,17 +25,10 @@ Using the story above as inspiration, compose a paragraph of Latin according to 
 
 
 Venus cum Marte clam concumbebat.
-
 Factum Vulcano indicandum erat.
-
-Catena adamantis ab eo facta est et ?cantem lectum Veneris et Marti catenam positus est.? catenam circum lectum Veneris et Martis posuit.
-
-Eo tempore, Venus et Mars eam non viderunt.
-
+Catena adamantis ab eo facta est et catena circum lectum Veneris et Martis a Vulcano postia est.
+Eo tempore, Venus et Mars dolum non viderunt.
 Ei non fugere poterant ab lecto.
-
 Postea ea nocte, dei vocati sunt ad eos videndos.
-
 Ob id factum Mars pudorem sensit.
-
 Amare divinum est, sed errare divinum est.
