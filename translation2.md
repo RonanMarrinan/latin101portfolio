@@ -1,18 +1,20 @@
+**Needs revisions**
+
 Passage to analyze
 - Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**.
 - Simul *Vulcānus* ex lutō fēminam **fingēbat**.
 - *Minerva* huic fēminae animam **dedit** et omnēs *deī* dōna eī **misērunt**.
-- ob *id* nōmen “Pandōra” ei **datum est**.
+- ob *id* nōmen “Pandōra” ei **datum est**. (**If *id* is the subject, then what is the object of *ob*?**)
 - *Pandōra* ab Iove in coniugium Epimetheō **data est**.
 - *Fīlia* eōrum **erat** Pyrrha, prīma mortālis.
 
-A. Grammatical Analysis
+A. Grammatical Analysis **See note above**
 Surround all the verbs with two asterisks. (These will display as bold text.) Surround all the subjects with one asterisk. (These will display as italic text.)
 
 B. Grammatical Questions
 - What is the grammatical function of Iapetī fīlius prīmus? It is describing the subject (Prometheus).
 
-- Parse fingēbat and tell me what conjugation it belongs to. Fingēbat is third person, singular, imperfect, Active and indicative. It belongs to the second conjugation.
+- Parse fingēbat and tell me what conjugation it belongs to. Fingēbat is third person, singular, imperfect, Active and indicative. It belongs to the second conjugation. **Second conjugation has a long e in the infintive *-ēre*.  (I'll mark long vowels, but leave short vowels unmarked by default.)**
 
 - What type of adjective is huic, what case is it in, and what word does it agree with? Huic is a demonstrative adjetive, it is dative and agrees with the word "feminae."
 
@@ -32,4 +34,4 @@ At the same time Vulcān made women out of mud.
 Minerva gave a spirit to this woman and all the gods sent gifts to her.
 On account of this the name Pandora was given to her.
 Pandōra was given by Jupiter to Epimetheus in marriage.
-The daughter of them was Phyraa, the first mortal.
+The daughter of them was Pyrrha, the first mortal.
