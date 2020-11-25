@@ -1,9 +1,11 @@
+**Needs revisions**
+
 Background story
 
-Venus was sleeping with Mars secretly, and Vulcan wanted to expose them. 
-So, he created an adamant chain and put it around the bed to catch Mars with cleverness. 
-The next time they slept together, Venus and Mars were trapped in the bed and weren’t able to escape. 
-All the gods were summoned and saw them. 
+Venus was sleeping with Mars secretly, and Vulcan wanted to expose them.
+So, he created an adamant chain and put it around the bed to catch Mars with cleverness.
+The next time they slept together, Venus and Mars were trapped in the bed and weren’t able to escape.
+All the gods were summoned and saw them.
 So, Mars became ashamed.
 
 Instructions
@@ -28,7 +30,7 @@ Venus cum Marte clam concumbebat.
 Factum Vulcano indicandum erat.
 Catena adamantis ab eo facta est et catena circum lectum Veneris et Martis a Vulcano postia est.
 Eo tempore, Venus et Mars dolum non viderunt.
-Ei non fugere poterant ab lecto.
+Ei non fugere poterant ab lecto. **Use *a* rather than *ab* before a consonant. Small point: nicer to put the adverb *non* right next to *poterant*: you're really negating the idea "they weren't able", rather than saying "They were able *not* to flee."**
 Postea ea nocte, dei vocati sunt ad eos videndos.
 Ob id factum Mars pudorem sensit.
-Amare divinum est, sed errare divinum est.
+Amare divinum est, sed errare divinum est. **If you'd like to make this just a touch more elegant in Latin, use the adverb *quoque*, "also," after *errare*.**
