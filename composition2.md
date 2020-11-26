@@ -1,3 +1,5 @@
+**Satisfactory: full credit**
+
 1. Use each of the following names or nouns at least once:
     - Prometheus, Prometheī, m. - Prometheus
     - aquila, aquilae, f. - eagle
