@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Compose a paragraph of Latin about the Olympian gods following these instructions.
 
 1. Your paragraph should use each of the following proper names at least once:
@@ -19,16 +21,6 @@ Compose a paragraph of Latin about the Olympian gods following these instruction
 
 Iuppiter et Iūnō, rex et regina deorum erant.
 Mārs et Vulcānus filii Iovis et Iūnōnis erant.
-Minerava, soror Mārtis et Vulcānī, fillia Iovis erat.
+Minerava, soror Mārtis et Vulcānī, fillia Iovis erat. **Check spelling of the name of the goddess of wisdom, and of the word for daughter.**
 Venus uxor Vulcānī erat.
-Ea matrem nullīus familiae erat.
-
-
-
-
-
-
-
-
-
-
+Ea matrem nullīus familiae erat. **What case is *matrem*?  What case do you need for the predicate of a linking verb like "to be"?**
