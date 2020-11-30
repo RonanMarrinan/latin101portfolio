@@ -1,4 +1,4 @@
-**Needs revisions**
+**Satisfactory: full credit**
 
 Compose a paragraph of Latin about the Olympian gods following these instructions.
 
