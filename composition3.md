@@ -30,7 +30,7 @@ Venus cum Marte clam concumbebat.
 Factum Vulcano indicandum erat.
 Catena adamantis ab eo facta est et catena circum lectum Veneris et Martis a Vulcano postia est.
 Eo tempore, Venus et Mars dolum non viderunt.
-Ei non fugere poterant ab lecto. **Use *a* rather than *ab* before a consonant. Small point: nicer to put the adverb *non* right next to *poterant*: you're really negating the idea "they weren't able", rather than saying "They were able *not* to flee."**
+Ei fugere non poterant a lecto.
 Postea ea nocte, dei vocati sunt ad eos videndos.
 Ob id factum Mars pudorem sensit.
-Amare divinum est, sed errare divinum est. **If you'd like to make this just a touch more elegant in Latin, use the adverb *quoque*, "also," after *errare*.**
+Amare divinum est, sed quoque errare divinum est.
