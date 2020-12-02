@@ -13,7 +13,7 @@ Surround all the verbs with two asterisks. (These will display as bold text.) Su
 
 B. Grammatical Questions
 What case is decem annōs and why? It is accusative because 
-Parse possent (PNTMV) and explain its mood.
+Parse possent (PNTMV) and explain its mood. Possent is Third person, plural, imperfect, active and subjunctive. REMINDER TO EXPLAIN ITS MOOD!!!!
 Explain the sentence structure of DANAI MINERVAE DONUM DANT?
 What type of verb is arbitrati sunt?
 What kind of grammatical construction do we have in the sentence Priamus imperavit equum in templum Minervae duci? Identify its constituent parts.
@@ -24,3 +24,4 @@ What is the function of the que in portārumque?
 C. Translation
 Please translate the passage into idiomatic English.
 
+With ten years the Greaks could not seize troy, 
