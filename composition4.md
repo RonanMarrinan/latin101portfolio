@@ -17,3 +17,23 @@ All vocabulary words that you will need can be found either below or in the mast
 6. Your fifth sentence should express that Hercules’ mind was possessed by Juno and that he killed his family.
 7. Your sixth sentence should say that following this event, Hercules did not want to live and was given into slavery.
 8. Your sentences should include at least two verbs in the subjunctive, three irregular verbs, and three pronouns.
+
+Vocabulary
+- Hercules, Herculis - Hercules (proper name)
+- Eurystheus, Eurystheī - Eurystheus (proper name)
+- Cerberus, Cerberī - Cerberus (proper name)
+- canis, canis f./m. - dog
+- triceps, tricipitis - three-headed
+- Lycus, Lycī - Lycus (proper name)
+- Neptunus, Neptunī - Neptune (proper name)
+- morior, morī, mortuus sum - to die
+- ideō - therefore, as a result
+- Megara, Megarae - Megara (proper name)
+- Creon, Creontis - Creon (proper name)
+- Therimachus, Therimachi - Therimachus (proper name)
+- Ophis, Ophitis - Ophis (proper name)
+- celeriter - quickly
+- factum, facti n. - deed
+- posteā - afterwards
+- vīvō, vīvere, vīxī, vīctus - to live
+- servitium, servitiī n. - slavery
