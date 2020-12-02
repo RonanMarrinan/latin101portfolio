@@ -37,3 +37,11 @@ Vocabulary
 - posteā - afterwards
 - vīvō, vīvere, vīxī, vīctus - to live
 - servitium, servitiī n. - slavery
+
+
+Cum Hurculem 
+ad + NOUN + gerundive
+putabat Herculem mortuum esse.
+
+second sentence infitive - to kill
+
