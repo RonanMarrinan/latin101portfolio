@@ -30,8 +30,8 @@ C. Translation
 Please translate the passage into idiomatic English.
 
 Long ago Prometheus, the first son of Iapetus, fashioned men out of mud.
-At the same time Vulcān made women out of mud.
+At the same time Vulcān made a woman out of mud.
 Minerva gave a spirit to this woman and all the gods sent gifts to her.
-On account of this the name Pandora was given to her.
+On account of this, the name Pandora was given to her.
 Pandōra was given by Jupiter to Epimetheus in marriage.
 The daughter of them was Pyrrha, the first mortal.
