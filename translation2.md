@@ -1,4 +1,4 @@
-**Needs revisions**
+**Satisfactory: full credit**
 
 Passage to analyze
 - Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**.
