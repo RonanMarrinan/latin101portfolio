@@ -4,7 +4,7 @@ Passage to analyze
 - Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**.
 - Simul *Vulcānus* ex lutō fēminam **fingēbat**.
 - *Minerva* huic fēminae animam **dedit** et omnēs *deī* dōna eī **misērunt**.
-- ob *id* nōmen “Pandōra” ei **datum est**. (**If *id* is the subject, then what is the object of *ob*?**)
+- ob id *nōmen* “Pandōra” ei **datum est**. (**If *id* is the subject, then what is the object of *ob*?**)
 - *Pandōra* ab Iove in coniugium Epimetheō **data est**.
 - *Fīlia* eōrum **erat** Pyrrha, prīma mortālis.
 
