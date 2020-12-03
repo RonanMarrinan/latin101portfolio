@@ -19,18 +19,18 @@ What case is eius and to what does it refer? Eius is genitive and it refers to C
 
 What type of word is haec? Haec is a demonstrative.
 
-To whom does illius refer? Illius refers to Terra.
+To whom does illius refer? Illius refers to Lētī.
 
 What case, number, and gender is monstra? Monstra is nominative, plural and neuter. (Check!!!)
 
 What declension does the word dracōnēs belong to? Third declension.
 
-What case and number is eorum and to whom does it refer? Eorum is Genitive and plural. It refers to Cyclōpēs???? Typhonn and Python.
+What case and number is eorum and to whom does it refer? Eorum is Genitive and plural. It refers to Cyclōpēs, Typhonn and Python.
 
-What word is understood (not included) in the sentence: Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum? The verb to be
+What word is understood (not included) in the sentence: Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum? The verb to be.
 
 C. Translation
 
 Please translate the passage into idiomatic English.
 
-Chaos was the first God. His daughters were Night and Earth, the Mother of all people. She was the mother of death and of destruction. Her sons were horrible monsters: Typhon, Python, et Cyclōpēs. Typhon and Python were huge Dragons and the Cyclopes were foolish stone workers. The brother was Uranus, the very first king of the gods. He was strong and great, but also wise.
+Chaos was the first of the Gods. His daughters were Night and Earth, the Mother of all people. She was the mother of death and of destruction. The sons of destruction were horrible monsters: Typhon, Python, et Cyclōpēs. Typhon and Python were huge Dragons and the Cyclopes were foolish stone workers. The brother was Uranus, the very first king of the gods. He was strong and great, but also wise.
