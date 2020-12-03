@@ -4,10 +4,10 @@
 
 *Erechtheus*, Pandīonis *fīlius*, **habuit** fīliās quattuor.
 illō tempōre, *Eumolpus*, Neptūnī *fīlius*, **vēnit** ad Athēnās oppugnandās, sed *hic* **victus** **est**.
-Neptūnus, infestus quod *fīlius* ab Erechtheō **interfectus** **est**, **dīxit**
-“Erecthei fīlia **immolanda** **est**.”  (**Does this verb have a subject?**)
+*Neptūnus*, infestus quod *fīlius* ab Erechtheō **interfectus** **est**, **dīxit**
+“Erecthei *fīlia* immolanda **est**.”  
 itaque *Chthonia*, fīliārum ūna, **immolāta** **est**.
-*ceterae* *sorōrēs* sē **interfēcērunt**; ipse Erechtheus ab fulmine **ictus** **est**.  (**Does this verb have a subject?**)
+*ceterae* *sorōrēs* sē **interfēcērunt**; ipse *Erechtheus* ab fulmine **victus** **est**.  
 
 A. Grammatical Analysis **See comments in parentheses above**
 
