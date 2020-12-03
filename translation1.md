@@ -1,3 +1,4 @@
+**Satisfactory: full credit**
 Passage to analyze
 
 Notes on formatting:
