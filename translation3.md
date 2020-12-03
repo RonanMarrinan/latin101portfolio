@@ -34,7 +34,7 @@ B. Grammatical Questions
       - It is feminine, nominative and plural.
 
 7. What type of construction is ab fulmine?
-    - It is the ablative of place??? **Do you think "lightning" is the location of the event??**
+    - It is the ablative of means.
 
 
 C. Translation
