@@ -24,7 +24,7 @@ B. Grammatical Questions
 
 - What type of grammatical construction is ab Iove? It expresses the agent of by.
 
-- What tense is erat and what are the principle parts of the verb it comes from? Erat is the imperfect tense of the verb "to be." To be's four principal parts are um, esse, fui, futurus.
+- What tense is erat and what are the principle parts of the verb it comes from? Erat is the imperfect tense of the verb "to be." To be's four principal parts are sum, esse, fui, futurus.
 
 C. Translation
 Please translate the passage into idiomatic English.
