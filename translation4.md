@@ -1,7 +1,7 @@
 Passage to analyze
 Highlighting like this indicates words or phrases referred to in grammatical questions.
 
-Cum *Achīvī* decem annōs Troiam capere nōn **possent**, *Epeus* equum mirae magnitūdinis ligneum **fēcit**.
+Cum *Achīvī* decem annōs Troiam **capere nōn possent**, *Epeus* equum mirae magnitūdinis ligneum **fēcit**.
 In eō **collēctī sunt** *Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus*.
 et in equō scripsērunt “DANAI MINERVAE DONUM DANT”, castraque **transtulērunt** Tenedo.
 Cum id *Troianī* **vidērunt**, **arbitratī sunt** hostēs abisse; *Priamus* imperāvit equum in templum Minervae ducī.
