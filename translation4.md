@@ -6,7 +6,7 @@ In eō **collēctī sunt** Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, A
 et in equō scripsērunt “DANAI MINERVAE DONUM DANT”, castraque **transtulērunt** Tenedo.
 Cum id *Troianī* **vidērunt**, **arbitratī sunt** hostēs abisse; *Priamus* imperāvit equum in templum Minervae ducī.
 Cum *vātēs*, *Cassandra*, **diceret** equum **habere** hostes, fidēs eī data non est et equum pro templō **posuērunt**.
-Achīvī exiērunt portārumque custodēs occidērunt et Troiam sunt potitī.
+*Achīvī* **exiērunt** portārumque custodēs occidērunt et Troiam sunt potitī.
 
 A. Grammatical Analysis
 Surround all the verbs with two asterisks. (These will display as bold text.) Surround all the subjects with one asterisk. (These will display as italic text.)
@@ -29,5 +29,6 @@ In it Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon
 And on the horse they wrote, "The greeks offer this gift to Minerva", and they carried over their military camps to Tenedos.
 When the trojans saw it, they judged enemies to go away; Prium commanded the horse to be led into the temple of Minerva.
 When the prophet, Cassandra, said the horse had the enemies, faith was not given to her and the horse was placed in front of the temple.
+The greeks exited and killed the guards of the gate and Troy was conquered.
 
 
