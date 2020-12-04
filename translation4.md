@@ -6,7 +6,7 @@ In eō **collēctī sunt** *Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, 
 et in equō scripsērunt “DANAI MINERVAE DONUM DANT”, castraque **transtulērunt** Tenedo.
 Cum id *Troianī* **vidērunt**, **arbitratī sunt** *hostēs* abisse; *Priamus* imperāvit equum in templum Minervae ducī.
 Cum *vātēs*, Cassandra, **diceret** *equum* **habere** hostes, *fidēs* eī **data non est** et equum pro templō **posuērunt**.
-*Achīvī* **exiērunt** portārumque custodēs occidērunt et Troiam sunt potitī.
+*Achīvī* **exiērunt** portārumque custodēs **occidērunt** et Troiam **sunt potitī**.
 
 A. Grammatical Analysis
 Surround all the verbs with two asterisks. (These will display as bold text.) Surround all the subjects with one asterisk. (These will display as italic text.)
