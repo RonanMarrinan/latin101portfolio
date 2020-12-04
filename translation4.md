@@ -12,8 +12,10 @@ A. Grammatical Analysis
 Surround all the verbs with two asterisks. (These will display as bold text.) Surround all the subjects with one asterisk. (These will display as italic text.)
 
 B. Grammatical Questions
-1. What case is decem annōs and why? It is accusative because 
-2. Parse possent (PNTMV) and explain its mood. Possent is Third person, plural, imperfect, active and subjunctive. REMINDER TO EXPLAIN ITS MOOD!!!!
+1. What case is decem annōs and why? 
+  - It is accusative because it is expressing the extent of time. 
+2. Parse possent (PNTMV) and explain its mood. 
+  - Possent is Third person, plural, imperfect, active and subjunctive. It is in the subjuncitve because we have a temporal clause.
 3. Explain the sentence structure of DANAI MINERVAE DONUM DANT? It is an independent clause.
 4. What type of verb is arbitrati sunt? 
 5. What kind of grammatical construction do we have in the sentence Priamus imperavit equum in templum Minervae duci? Identify its constituent parts.
