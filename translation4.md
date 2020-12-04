@@ -16,8 +16,10 @@ B. Grammatical Questions
   - It is accusative because it is expressing the extent of time. 
 2. Parse possent (PNTMV) and explain its mood. 
   - Possent is Third person, plural, imperfect, active and subjunctive. The mood expresses that an action is happening simultaneously as or after the action of the independent clause.
-3. Explain the sentence structure of DANAI MINERVAE DONUM DANT? It is an independent clause.
+3. Explain the sentence structure of DANAI MINERVAE DONUM DANT?
+  - It is an independent clause.
 4. What type of verb is arbitrati sunt? 
+  - Transitive verb.
 5. What kind of grammatical construction do we have in the sentence Priamus imperavit equum in templum Minervae duci? Identify its constituent parts.
 6. Parse duci.
 7. What case is ei and what role is it playing in the sentence?
