@@ -28,8 +28,6 @@ When the Greaks could not seize troy for ten years, Epeus made a wooden horse of
 In it Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus were gathered.
 And on the horse they wrote, "The greeks offer this gift to Minerva", and they carried over their military camps to Tenedos.
 When the trojans saw it, they judged enemies to go away; Prium commanded the horse to be led into the temple of Minerva.
-When the prophet, Cassandra, said the horse collected the enemies, 
-
-faith she(dative) gave is not and the horse be placed in front of the temple.
+When the prophet, Cassandra, said the horse had the enemies, faith was not given to her and the horse was placed in front of the temple.
 
 
