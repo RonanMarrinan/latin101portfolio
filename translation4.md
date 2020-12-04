@@ -25,9 +25,9 @@ B. Grammatical Questions
 6. Parse duci.
   - Duci is in the present, passive and infitive.
 7. What case is ei and what role is it playing in the sentence?
-  - It is dative and 
+  - It is dative and it is the indirect object.
 8. What is the function of the que in portārumque?
-  - 
+  - It is an enclitic and a coordinating conjunction.
 
 C. Translation
 Please translate the passage into idiomatic English.
