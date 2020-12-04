@@ -24,4 +24,4 @@ What is the function of the que in portārumque?
 C. Translation
 Please translate the passage into idiomatic English.
 
-With ten years the Greaks could not seize troy, 
+When the Greaks could not seize troy for ten years, 
