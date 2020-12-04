@@ -5,7 +5,7 @@ Cum *Achīvī* decem annōs Troiam capere nōn **possent**, *Epeus* equum mirae 
 In eō **collēctī sunt** Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus.
 et in equō scripsērunt “DANAI MINERVAE DONUM DANT”, castraque **transtulērunt** Tenedo.
 Cum id *Troianī* **vidērunt**, **arbitratī sunt** hostēs abisse; *Priamus* imperāvit equum in templum Minervae ducī.
-Cum *vātēs*, *Cassandra*, **diceret** equum **habere** hostes, fidēs eī data non est et equum pro templō posuērunt.
+Cum *vātēs*, *Cassandra*, **diceret** equum **habere** hostes, fidēs eī data non est et equum pro templō **posuērunt**.
 Achīvī exiērunt portārumque custodēs occidērunt et Troiam sunt potitī.
 
 A. Grammatical Analysis
@@ -30,6 +30,6 @@ And on the horse they wrote, "The greeks offer this gift to Minerva", and they c
 When the trojans saw it, they judged enemies to go away; Prium commanded the horse to be led into the temple of Minerva.
 When the prophet, Cassandra, said the horse collected the enemies, 
 
-trusts she(dative) gave is not
+faith she(dative) gave is not and the horse be placed in front of the temple.
 
 
