@@ -25,7 +25,7 @@ B. Grammatical Questions
 6. Parse duci.
   - Duci is in the present, passive and infitive.
 7. What case is ei and what role is it playing in the sentence?
-  - 
+  - It is dative and 
 8. What is the function of the que in portārumque?
   - 
 
