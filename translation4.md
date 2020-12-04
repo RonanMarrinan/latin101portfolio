@@ -21,9 +21,13 @@ B. Grammatical Questions
 4. What type of verb is arbitrati sunt? 
   - Transitive verb.
 5. What kind of grammatical construction do we have in the sentence Priamus imperavit equum in templum Minervae duci? Identify its constituent parts.
+  - It is an indriect statement. Equum is the accusative subject of the indirect statement and duci is the infitive verb.
 6. Parse duci.
+  - Duci is in the present, passive and infitive.
 7. What case is ei and what role is it playing in the sentence?
+  - 
 8. What is the function of the que in portārumque?
+  - 
 
 C. Translation
 Please translate the passage into idiomatic English.
