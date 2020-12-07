@@ -39,9 +39,9 @@ Vocabulary
 - servitium, servitiī n. - slavery
 
 
-Cum Hurculem 
+
 ad + NOUN + gerundive
-putabat Herculem mortuum esse.
+Cum Hurculem mitti ad lycum proeliandum, Lycus putabat Herculem mortuum esse.
 
 second sentence infitive - to kill
 
