@@ -45,7 +45,7 @@ Lycus capere regnum Herculis et interficere familiam eius cupivit.
 
 Cum Hurculem consillum lyci audiverit, Hercules repedavit et lycum interfecit.
 
-Hercules Junonem punitus est ob Herculem facto non bono.
+Hercules Junonem punitus est ideo Hercules factum non bonum.
 
-
+Herculis
 
