@@ -43,6 +43,9 @@ Cum Hurcules missus est ad pugnandum Cerberus, Lycus putavit eum mortuum esse.
 
 Lycus capere regnum Herculis et interficere familiam eius cupivit.
 
-Cum Hurculem
+Cum Hurculem consillum lyci audiverit, Hercules repedavit et lycum interfecit.
+
+Hercules Junonem punitus est ob Herculem facto non bono.
+
 
 
