@@ -41,7 +41,7 @@ Vocabulary
 
 
 ad + NOUN + gerundive
-Cum Hurculem mitti ad lycum proeliandum, Lycus putabat Herculem mortuum esse.
+Cum Hurcules missus est ad pugnandum Cerberus, Lycus putavit eum mortuum esse.
 
 second sentence infitive - to kill
 
