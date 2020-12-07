@@ -17,7 +17,7 @@ B. Grammatical Questions
 2. Parse possent (PNTMV) and explain its mood. 
   - Possent is Third person, plural, imperfect, active and subjunctive. In a temporal clause the subjuncitve express the circumstances.
 3. Explain the sentence structure of DANAI MINERVAE DONUM DANT?
-  - It is an independent clause.
+  - The Subject is DANAI, the verb is DANT. The direct object is DONUM. The indirect object is MINERVAE.
 4. What type of verb is arbitrati sunt? 
   - Transitive verb.
 5. What kind of grammatical construction do we have in the sentence Priamus imperavit equum in templum Minervae duci? Identify its constituent parts.
