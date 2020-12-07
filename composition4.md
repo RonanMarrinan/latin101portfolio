@@ -39,9 +39,10 @@ Vocabulary
 - servitium, servitiī n. - slavery
 
 
-
-ad + NOUN + gerundive
 Cum Hurcules missus est ad pugnandum Cerberus, Lycus putavit eum mortuum esse.
 
-second sentence infitive - to kill
+Lycus vellet furare regnum Herculis et ei familiae interficere.
+
+
+
 
