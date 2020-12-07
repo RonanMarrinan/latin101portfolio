@@ -39,7 +39,7 @@ Vocabulary
 - servitium, servitiī n. - slavery
 
 
-Cum Hurcules missus est ad pugnandum Cerberus, Lycus putavit eum mortuum esse.
+Cum Hurcules missus est ad pugnandum Cerberus, canis canebat, Lycus putavit eum mortuum esse.
 
 Lycus velle regnum Herculis et interficere familiam eius cupivit.
 
@@ -49,5 +49,5 @@ Hercules Junonem punitus est ideo Hercules factum non bonum.
 
 Mens Herculis a Junonem ideo Hercules familiam interfecit.
 
-
+Posteā hic, hercules vixit non voluit et is servitium dedit.
 
