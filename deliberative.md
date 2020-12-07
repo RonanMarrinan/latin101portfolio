@@ -1,3 +1,5 @@
+**Needs a revision**
+
 Exercise to complete
 
 The following sentences are taken from Hyginus’ summary of Hercules’ labors in chapter 30 of the Fabulae. For each sentence, change the verb to:
@@ -11,7 +13,7 @@ b. imperfect subjunctive to ask “Should Hercules have done this?”
   1b. Necaret
   
 2. pellem eius pro tegumento habuit.
-  1a. Haberet
+  1a. Haberet **Do you really want the same form for both present and imperfect subjunctive, or is this just a typo?**
   1b. Haberet
   
 3. Hydram Lernaeam cum capitibus nouem interfecit.
