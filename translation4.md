@@ -19,7 +19,7 @@ B. Grammatical Questions
 3. Explain the sentence structure of DANAI MINERVAE DONUM DANT?
   - The Subject is DANAI, the verb is DANT. The direct object is DONUM. The indirect object is MINERVAE.
 4. What type of verb is arbitrati sunt? 
-  - Transitive verb.
+  - It is a deponent. 
 5. What kind of grammatical construction do we have in the sentence Priamus imperavit equum in templum Minervae duci? Identify its constituent parts.
   - It is an indriect statement. Equum is the accusative subject of the indirect statement and duci is the infitive verb.
 6. Parse duci.
@@ -27,7 +27,7 @@ B. Grammatical Questions
 7. What case is ei and what role is it playing in the sentence?
   - It is dative and it is the indirect object.
 8. What is the function of the que in portārumque?
-  - It is an enclitic and a coordinating conjunction.
+  - It is a coordinating conjunction.
 
 C. Translation
 Please translate the passage into idiomatic English.
