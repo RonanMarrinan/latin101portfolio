@@ -41,8 +41,8 @@ Vocabulary
 
 Cum Hurcules missus est ad pugnandum Cerberus, Lycus putavit eum mortuum esse.
 
-Lycus vellet furare regnum Herculis et ei familiae interficere.
+Lycus capere regnum Herculis et interficere familiam eius cupivit.
 
-
+Cum Hurculem
 
 
