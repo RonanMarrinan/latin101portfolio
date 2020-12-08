@@ -34,9 +34,9 @@ Please translate the passage into idiomatic English.
 
 When the Greaks could not seize troy for ten years, Epeus made a wooden horse of amazing size.
 In it Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus were gathered.
-And in the horse they wrote, "The greeks offer this gift to Minerva", and they carried over their military camps to Tenedos.
-When the trojans saw it, they judged that the enemies had gone away; Prium commanded the horse to be led into the temple of Minerva.
-When the prophet, Cassandra, said the horse had the enemies, faith was not given to her and the horse was placed in front of the temple.
-The greeks exited and killed the guards of the gate and they conquered Troy.
+And on the horse they wrote, "The greeks offer this gift to Minerva", and they carried over their military camps to Tenedos.
+When the trojans saw it, they judged that the enemies had gone away; Priam commanded the horse to be led into the temple of Minerva.
+When the prophet, Cassandra, said the horse had the enemies, faith was not given to her and they placed the horse in front of the temple.
+The greeks exited and killed the guards of the gates and they conquered Troy.
 
 
