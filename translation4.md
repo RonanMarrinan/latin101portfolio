@@ -1,3 +1,5 @@
+**Satisfactory:  full credit**
+
 Passage to analyze
 Highlighting like this indicates words or phrases referred to in grammatical questions.
 
