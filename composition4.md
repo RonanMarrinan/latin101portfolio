@@ -38,10 +38,9 @@ Vocabulary
 - vīvō, vīvere, vīxī, vīctus - to live
 - servitium, servitiī n. - slavery
 
+Cum Hercules ad Cerberum tricipitem canem educendum missus esset, Lycus putabat Herculem mortuum esset.
 
-Cum Hercules ad Cerberum tricipitem canem educendum missus esset, Lycus putabat eum mortuum esse.
-
-Lycus velle regnum Herculis et interficere familiam eius cupivit.
+Lycus volebat regnum Herculis capere familiamque eius occidere.
 
 Cum Hurculem consillum lyci audiverit, Hercules repedavit et lycum interfecit.
 
