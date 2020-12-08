@@ -39,7 +39,7 @@ Vocabulary
 - servitium, servitiī n. - slavery
 
 
-Cum Hurcules missus esset ad Cerberus pugnandum, canis canebat, Lycus putavit Herculem mortuum esse.
+Cum Hercules ad Cerberum tricipitem canem educendum missus esset, Lycus putabat eum mortuum esse.
 
 Lycus velle regnum Herculis et interficere familiam eius cupivit.
 
