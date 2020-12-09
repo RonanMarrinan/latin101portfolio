@@ -1,12 +1,13 @@
-After Hercules had been sent by King Eurystheus to fight Cerberus, the three-headed dog, Lycus, the son of Neptune, thought that he [Hercules] had died. 
-As a result, Lycus wished to kill Megara, the daughter of Creon and Hercules’ wife, and their sons, Therimachus and Ophis, and take his kingdom. 
-After he had heard this, Hercules quickly went to Lycus and killed him. 
-Because of his evil deed, Hercules was punished by Juno, the wife of Jupiter. 
-The goddess possessed his mind and Hercules killed Megara and his sons. 
+**Needs revisions**
+After Hercules had been sent by King Eurystheus to fight Cerberus, the three-headed dog, Lycus, the son of Neptune, thought that he [Hercules] had died.
+As a result, Lycus wished to kill Megara, the daughter of Creon and Hercules’ wife, and their sons, Therimachus and Ophis, and take his kingdom.
+After he had heard this, Hercules quickly went to Lycus and killed him.
+Because of his evil deed, Hercules was punished by Juno, the wife of Jupiter.
+The goddess possessed his mind and Hercules killed Megara and his sons.
 In the aftermath of this event, Hercules did not wish to live and subsequently was given into slavery by Mercury.
 
-Instructions: Using the story above as inspiration, compose a paragraph of Latin according to the instructions below. 
-DO NOT TRANSLATE THE PARAGRAPH ABOVE. 
+Instructions: Using the story above as inspiration, compose a paragraph of Latin according to the instructions below.
+DO NOT TRANSLATE THE PARAGRAPH ABOVE.
 All vocabulary words that you will need can be found either below or in the master vocabulary list.
 
 1. Use each word in the given vocabulary list (below) at least once.
@@ -42,12 +43,15 @@ Cum Hercules ad Cerberum tricipitem canem educendum missus esset, Lycus putabat 
 
 Lycus volebat regnum Herculis capere familiamque eius occidere.
 
-Cum Hurculem consillum lyci audiverit, Hercules repedavit et lycum interfecit.
+Cum Hurculem consillum lyci audiverit, Hercules repedavit et lycum interfecit. **Your main verb, *interfecit*, is a past tense ("secondary sequence"), so the subjunctive verb of the secondary clause should use either imperfect (same time) or pluperfect (earlier time).**
+
 Cum Hurculem audiverit, is revino lycum interfecit.
 
+
+**I'm not sure what you're doing with these two sentences.  Let's analyze the structure and look at this together.**
 Hercules Junonem punitus est ideo Hercules factum non bonum.
 
-Mens Herculis a Junonem ideo Hercules familiam interfecit.
+Mens Herculis a Junonem Hercules familiam interfecit.
 
-Posteā hic, hercules vixit non voluit et is servitium dedit.
-
+Posteā hic, hercules vixit noluit et is servitium dedit. **The verb *nolo* needs an infinitive to complete its idea ("he didn't want *to live*").**  
+**What voice is the English verb in the sentence "He was given into slavery"?**
