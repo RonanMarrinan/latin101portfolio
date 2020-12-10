@@ -22,12 +22,12 @@ All vocabulary words that you will need can be found either below or in the mast
 
 Vocabulary
 - Hercules, Herculis - Hercules (proper name)
-- **Eurystheus, Eurystheī - Eurystheus (proper name)**
+- Eurystheus, Eurystheī - Eurystheus (proper name)
 - Cerberus, Cerberī - Cerberus (proper name)
 - canis, canis f./m. - dog
 - triceps, tricipitis - three-headed
 - Lycus, Lycī - Lycus (proper name)
-- **Neptunus, Neptunī - Neptune (proper name)**
+- Neptunus, Neptunī - Neptune (proper name)
 - morior, morī, mortuus sum - to die
 - ideō - therefore, as a result
 - **Megara, Megarae - Megara (proper name)**
@@ -40,7 +40,8 @@ Vocabulary
 - vīvō, vīvere, vīxī, vīctus - to live
 - servitium, servitiī n. - slavery
 
-was sent by Eurystheus
+Cum Hercules ab Eurystheo missus esset ad Cerberum tricipitem canem educendum, Lycus, fīlius Neptunī, putabat Herculem mortuum esset.
+
 Cum Hercules ad Cerberum tricipitem canem educendum missus esset, Lycus putabat Herculem mortuum esset.
 
 Lycus volebat regnum Herculis capere familiamque eius occidere.
