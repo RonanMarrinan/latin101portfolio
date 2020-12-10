@@ -46,11 +46,11 @@ Lycus volebat regnum Herculis capere familiamque eius occidere.
 
 Cum Hurculem consillum lyci audiverit, Hercules repedavit et lycum interfecit. **Your main verb, *interfecit*, is a past tense ("secondary sequence"), so the subjunctive verb of the secondary clause should use either imperfect (same time) or pluperfect (earlier time).**
 
-Cum Hurculem audiverit, is revino lycum interfecit.
+Cum Hurculem Audivisset, is revino lycum interfecit.
 
 
 **I'm not sure what you're doing with these two sentences.  Let's analyze the structure and look at this together.**
-Hercules Junonem punitus est ideo Hercules factum non bonum.
+Hercules Junonem punitus est ob Herculem factum.
 
 Mens Herculis a Junonem Hercules familiam interfecit.
 
