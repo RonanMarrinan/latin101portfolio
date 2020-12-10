@@ -44,15 +44,13 @@ Cum Hercules ad Cerberum tricipitem canem educendum missus esset, Lycus putabat 
 
 Lycus volebat regnum Herculis capere familiamque eius occidere.
 
-Cum Hurculem consillum lyci audiverit, repedavit et lycum interfecit. **Your main verb, *interfecit*, is a past tense ("secondary sequence"), so the subjunctive verb of the secondary clause should use either imperfect (same time) or pluperfect (earlier time).**
-
-Cum Hercules consillum lyci audiret, Hercules revino lycum interfecit.
+Cum Hercules consillum lyci audiret, Hercules repedavit lycum interfecit.
 
 **I'm not sure what you're doing with these two sentences.  Let's analyze the structure and look at this together.**
 
 Ob id factum horribile, Hercules punitus est a Junone.
 
-Mens Herculis a Junonem Hercules familiam interfecit.
+Anima Herculis a Junone capta est, ideoque familiam suam interfecit
 
 Posteā hic, hercules vixit noluit et is servitium dedit. **The verb *nolo* needs an infinitive to complete its idea ("he didn't want *to live*").**  
 **What voice is the English verb in the sentence "He was given into slavery"?**
