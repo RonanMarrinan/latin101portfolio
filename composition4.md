@@ -48,6 +48,6 @@ Cum Hercules consillum lyci audiret, Hercules repedavit lycum interfecit.
 
 Ob id factum horribile, Hercules punitus est a Junone.
 
-Anima Herculis a Junone capta est, ideoque familiam suam interfecit
+Anima Herculis a Junone capta est, ideoque familiam suam interfecit.
 
-Posteā hic, hercules vivere nōlēbat et in servitium datus est
+Posteā hic, hercules vivere nōlēbat et in servitium datus est.
