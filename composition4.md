@@ -40,7 +40,7 @@ Vocabulary
 - vīvō, vīvere, vīxī, vīctus - to live
 - servitium, servitiī n. - slavery
 
-Cum Hercules ab Eurystheo missus esset ad Cerberum tricipitem canem educendum, Lycus, fīlius Neptunī, putabat Herculem mortuum esset.
+**Cum Hercules ab Eurystheo missus esset ad Cerberum tricipitem canem educendum, Lycus, fīlius Neptunī, putabat Herculem mortuum esset.**
 
 Cum Hercules ad Cerberum tricipitem canem educendum missus esset, Lycus putabat Herculem mortuum esset.
 
