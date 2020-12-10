@@ -44,10 +44,9 @@ Cum Hercules ad Cerberum tricipitem canem educendum missus esset, Lycus putabat 
 
 Lycus volebat regnum Herculis capere familiamque eius occidere.
 
-Cum Hurculem consillum lyci audiverit, Hercules repedavit et lycum interfecit. **Your main verb, *interfecit*, is a past tense ("secondary sequence"), so the subjunctive verb of the secondary clause should use either imperfect (same time) or pluperfect (earlier time).**
+Cum Hurculem consillum lyci audiverit, repedavit et lycum interfecit. **Your main verb, *interfecit*, is a past tense ("secondary sequence"), so the subjunctive verb of the secondary clause should use either imperfect (same time) or pluperfect (earlier time).**
 
-Cum Hurculem Audivisset, is revino lycum interfecit.
-
+Cum Hercules consillum lyci audiret, Hercules revino lycum interfecit.
 
 **I'm not sure what you're doing with these two sentences.  Let's analyze the structure and look at this together.**
 
