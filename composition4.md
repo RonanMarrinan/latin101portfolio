@@ -46,11 +46,8 @@ Lycus volebat regnum Herculis capere familiamque eius occidere.
 
 Cum Hercules consillum lyci audiret, Hercules repedavit lycum interfecit.
 
-**I'm not sure what you're doing with these two sentences.  Let's analyze the structure and look at this together.**
-
 Ob id factum horribile, Hercules punitus est a Junone.
 
 Anima Herculis a Junone capta est, ideoque familiam suam interfecit
 
-Posteā hic, hercules vixit noluit et is servitium dedit. **The verb *nolo* needs an infinitive to complete its idea ("he didn't want *to live*").**  
-**What voice is the English verb in the sentence "He was given into slavery"?**
+Posteā hic, hercules vivere nōlēbat et in servitium datus est
