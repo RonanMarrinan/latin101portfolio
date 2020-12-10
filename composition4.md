@@ -50,7 +50,8 @@ Cum Hurculem Audivisset, is revino lycum interfecit.
 
 
 **I'm not sure what you're doing with these two sentences.  Let's analyze the structure and look at this together.**
-Hercules Junonem punitus est ob Herculem factum.
+
+Ob id factum horribile, Hercules punitus est a Junone.
 
 Mens Herculis a Junonem Hercules familiam interfecit.
 
