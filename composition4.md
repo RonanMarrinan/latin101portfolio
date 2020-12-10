@@ -22,19 +22,19 @@ All vocabulary words that you will need can be found either below or in the mast
 
 Vocabulary
 - Hercules, Herculis - Hercules (proper name)
-- Eurystheus, Eurystheī - Eurystheus (proper name)
+- **Eurystheus, Eurystheī - Eurystheus (proper name)**
 - Cerberus, Cerberī - Cerberus (proper name)
 - canis, canis f./m. - dog
 - triceps, tricipitis - three-headed
 - Lycus, Lycī - Lycus (proper name)
-- Neptunus, Neptunī - Neptune (proper name)
+- **Neptunus, Neptunī - Neptune (proper name)**
 - morior, morī, mortuus sum - to die
 - ideō - therefore, as a result
-- Megara, Megarae - Megara (proper name)
-- Creon, Creontis - Creon (proper name)
-- Therimachus, Therimachi - Therimachus (proper name)
-- Ophis, Ophitis - Ophis (proper name)
-- celeriter - quickly
+- **Megara, Megarae - Megara (proper name)**
+- **Creon, Creontis - Creon (proper name)**
+- **Therimachus, Therimachi - Therimachus (proper name)**
+- **Ophis, Ophitis - Ophis (proper name)**
+- **celeriter - quickly**
 - factum, facti n. - deed
 - posteā - afterwards
 - vīvō, vīvere, vīxī, vīctus - to live
