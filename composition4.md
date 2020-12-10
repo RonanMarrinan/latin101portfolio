@@ -40,6 +40,7 @@ Vocabulary
 - vīvō, vīvere, vīxī, vīctus - to live
 - servitium, servitiī n. - slavery
 
+was sent by Eurystheus
 Cum Hercules ad Cerberum tricipitem canem educendum missus esset, Lycus putabat Herculem mortuum esset.
 
 Lycus volebat regnum Herculis capere familiamque eius occidere.
