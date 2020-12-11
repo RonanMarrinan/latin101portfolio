@@ -39,7 +39,7 @@ Vocabulary
 - servitium, servitiī n. - slavery
 
 
-Cum Hercules ab Eurystheo missus esset ad Cerberum tricipitem canem educendum, Lycus, fīlius Neptunī, putabat Herculem mortuum esset.
+Cum Hercules ab Eurystheo missus esset ad Cerberum tricipitem canem educendum, Lycus, fīlius Neptunī, putabat Herculem mortuum esse.
 
 Lycus volebat regnum Herculis capere familiamque eius, Megaram, filium Creontis et uxorem Herculis, Ophitem et Therimachum, filios Herculis, occidere.
 
