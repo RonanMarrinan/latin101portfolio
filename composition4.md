@@ -49,4 +49,4 @@ Ob id factum horribile, Hercules celeriter punitus est a Junone.
 
 Anima Herculis a Junone capta est, ideoque familiam suam interfecit.
 
-Post hoc, hercules vivere nōlēbat et in servitium datus est.
+Posteā, hercules vivere nōlēbat et in servitium datus est.
