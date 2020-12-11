@@ -1,5 +1,3 @@
-**Needs revisions**
-
 After Hercules had been sent by King Eurystheus to fight Cerberus, the three-headed dog, Lycus, the son of Neptune, thought that he [Hercules] had died.
 As a result, Lycus wished to kill Megara, the daughter of Creon and Hercules’ wife, and their sons, Therimachus and Ophis, and take his kingdom.
 After he had heard this, Hercules quickly went to Lycus and killed him.
@@ -45,7 +43,7 @@ Cum Hercules ab Eurystheo missus esset ad Cerberum tricipitem canem educendum, L
 
 Lycus volebat regnum Herculis capere familiamque eius, Megaram, filium Creontis et uxorem Herculis, Ophitem et Therimachum, filios Herculis, occidere.
 
-Cum Hercules consillum lyci audiret, Hercules repedavit lycum interfecit.
+Cum Hercules consillum lyci audiret, Hercules redivitque lycum interfecit.
 
 Ob id factum horribile, Hercules celeriter punitus est a Junone.
 
