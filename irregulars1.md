@@ -17,7 +17,4 @@ Fully identify the following forms:
 13. ierint: Third plural, perfect, subjunctive and active
 14. tulissent: Third person, plural, plurperfect, subjunctive and active.
 15. lati sint: Third plural, perfect, passive, and subjunctive
-16. latus esset: Third person, singular, pluperfect, passive and subjunctive. **What principal part is this build on?** The 4th so it is passive.
-
-I fixed entry 16 and responded to your question.
-
+16. latus esset: Third person, singular, pluperfect, passive and subjunctive.
