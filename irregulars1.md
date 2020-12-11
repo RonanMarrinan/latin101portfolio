@@ -1,3 +1,4 @@
+**Satisfactory:  full credit**
 Please answer the following questions: enter one answer per line.
 
 Fully identify the following forms:
