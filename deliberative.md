@@ -13,7 +13,7 @@ b. imperfect subjunctive to ask “Should Hercules have done this?”
   1b. Necaret
   
 2. pellem eius pro tegumento habuit.
-  1a. Habeat **Do you really want the same form for both present and imperfect subjunctive, or is this just a typo?** It is a typo.
+  1a. Habeat 
   1b. Haberet
   
 3. Hydram Lernaeam cum capitibus nouem interfecit.
