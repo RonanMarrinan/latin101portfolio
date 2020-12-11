@@ -30,10 +30,10 @@ Vocabulary
 - Neptunus, Neptunī - Neptune (proper name)
 - morior, morī, mortuus sum - to die
 - ideō - therefore, as a result
-- **Megara, Megarae - Megara (proper name)**
-- **Creon, Creontis - Creon (proper name)**
-- **Therimachus, Therimachi - Therimachus (proper name)**
-- **Ophis, Ophitis - Ophis (proper name)**
+- Megara, Megarae - Megara (proper name)
+- Creon, Creontis - Creon (proper name)
+- Therimachus, Therimachi - Therimachus (proper name)
+- Ophis, Ophitis - Ophis (proper name)
 - **celeriter - quickly**
 - factum, facti n. - deed
 - posteā - afterwards
@@ -43,7 +43,7 @@ Vocabulary
 
 Cum Hercules ab Eurystheo missus esset ad Cerberum tricipitem canem educendum, Lycus, fīlius Neptunī, putabat Herculem mortuum esset.
 
-Lycus volebat regnum Herculis capere familiamque eius, Megaram, uxorem Herculis, Creontem et Therimachum, filios Herculis, occidere.
+Lycus volebat regnum Herculis capere familiamque eius, Megaram, filium Creontis et uxorem Herculis, Ophitem et Therimachum, filios Herculis, occidere.
 
 Cum Hercules consillum lyci audiret, Hercules repedavit lycum interfecit.
 
