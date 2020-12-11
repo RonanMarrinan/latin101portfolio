@@ -43,7 +43,7 @@ Vocabulary
 
 Cum Hercules ab Eurystheo missus esset ad Cerberum tricipitem canem educendum, Lycus, fīlius Neptunī, putabat Herculem mortuum esset.
 
-Lycus volebat regnum Herculis capere familiamque eius, Megaram, uxor Herculis, Creontem et Therimachum, filii Herculis, occidere.
+Lycus volebat regnum Herculis capere familiamque eius, Megaram, uxorem Herculis, Creontem et Therimachum, filios Herculis, occidere.
 
 Cum Hercules consillum lyci audiret, Hercules repedavit lycum interfecit.
 
