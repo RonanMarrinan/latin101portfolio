@@ -34,7 +34,7 @@ Vocabulary
 - Creon, Creontis - Creon (proper name)
 - Therimachus, Therimachi - Therimachus (proper name)
 - Ophis, Ophitis - Ophis (proper name)
-- **celeriter - quickly**
+- celeriter - quickly
 - factum, facti n. - deed
 - posteā - afterwards
 - vīvō, vīvere, vīxī, vīctus - to live
@@ -47,7 +47,7 @@ Lycus volebat regnum Herculis capere familiamque eius, Megaram, filium Creontis 
 
 Cum Hercules consillum lyci audiret, Hercules repedavit lycum interfecit.
 
-Ob id factum horribile, Hercules punitus est a Junone.
+Ob id factum horribile, Hercules celeriter punitus est a Junone.
 
 Anima Herculis a Junone capta est, ideoque familiam suam interfecit.
 
