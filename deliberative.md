@@ -1,4 +1,4 @@
-**Needs a revision**
+**Satisfactory: full credit**
 
 Exercise to complete
 
