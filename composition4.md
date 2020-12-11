@@ -43,7 +43,7 @@ Cum Hercules ab Eurystheo missus esset ad Cerberum tricipitem canem educendum, L
 
 Lycus volebat regnum Herculis capere familiamque eius, Megaram, filium Creontis et uxorem Herculis, Ophitem et Therimachum, filios Herculis, occidere.
 
-Cum Hercules consillum lyci audiret, Hercules redivitque lycum interfecit.
+Cum Hercules consillum lyci audiret, Hercules redivit lycumque interfecit.
 
 Ob id factum horribile, Hercules celeriter punitus est a Junone.
 
