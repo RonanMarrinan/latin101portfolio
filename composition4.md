@@ -40,15 +40,10 @@ Vocabulary
 - vīvō, vīvere, vīxī, vīctus - to live
 - servitium, servitiī n. - slavery
 
-the daughter of Creon and Hercules’ wife, and their sons, Therimachus and Ophis,
 
-.
+Cum Hercules ab Eurystheo missus esset ad Cerberum tricipitem canem educendum, Lycus, fīlius Neptunī, putabat Herculem mortuum esset.
 
-**Cum Hercules ab Eurystheo missus esset ad Cerberum tricipitem canem educendum, Lycus, fīlius Neptunī, putabat Herculem mortuum esset.**
-
-Cum Hercules ad Cerberum tricipitem canem educendum missus esset, Lycus putabat Herculem mortuum esset.
-
-Lycus volebat regnum Herculis capere familiamque,Megara, uxor Herculis, Creon et Therimachus, filii Herculis  eius occidere.
+Lycus volebat regnum Herculis capere familiamque eius, Megaram, uxor Herculis, Creontem et Therimachum, filii Herculis, occidere.
 
 Cum Hercules consillum lyci audiret, Hercules repedavit lycum interfecit.
 
